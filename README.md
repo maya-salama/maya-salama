@@ -1,4 +1,6 @@
-## print("hello world!") 👋
+## hello there! 👋
+
+my name is maya salama and i am a cognitive sciences major with a minor in information and computer sciences at uci! i'm interested in ai, machine learning, and neural networks!
 
 <!--
 **maya-salama/maya-salama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
