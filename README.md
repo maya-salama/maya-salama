@@ -1,6 +1,6 @@
 ## hello there! 👋
 
-my name is maya salama and i am a cognitive sciences major with a minor in information and computer sciences at uci! i'm interested in neural networks and deep learning!
+my name is maya salama and i am a cognitive sciences major with a minor in information and computer sciences at uci! i'm interested in machine learning, neural networks and deep learning!
 
 <!--
 **maya-salama/maya-salama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
